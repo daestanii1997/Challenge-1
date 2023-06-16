@@ -12,21 +12,5 @@ I wanted to create an easily readable file using HTML semantics, reorganize the 
 ![alt text](assets/images/Screenshot.PNG)
 '''
 
-## Credits
+## Link
 
-<!-- Insert original code resource info here? -->
-
-## License
-
-<!-- mit? -->
-
-## Features
-<!-- ? -->
-
-## How to Contribute
-
-<!-- ? -->
-
-## Tests
-
-<!-- Does this apply? -->
